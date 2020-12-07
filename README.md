@@ -1,4 +1,7 @@
 # General-programs-in-C
+C is a procedural programming language. It was initially developed by Dennis Ritchie between 1969 and 1973. It was mainly developed as a system programming language to write operating system. The main features of C language include low-level access to memory, simple set of keywords, and clean style, these features make C language suitable for system programming like operating system or compiler development.
+
+Learning C programming has lot of benefits, but the foremost thing in which it helps is to understand the underlying architecture of how things works?
 Assignment Questions:
 1. Write a C program to count number of digits in a number.
 2. Write a C program to swap first and last digits of a number.

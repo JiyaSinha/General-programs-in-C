@@ -7,3 +7,4 @@ Assignment Questions:
 5. Write a C program to print all ASCII character with their values.
 6. Write a C program to find one's complement of a binary number.
 7. Write a C program to find two's complement of a binary number.
+( All these programs are very general. In each program, first we try to determine our aim , interpret it in terms of codes and finally execute them as usefull programs.)
